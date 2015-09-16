@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說須摩提長者經
+#+DATE: 2015-08-30 20:11:30.397543
+#+PROPERTY: JUAN 0
